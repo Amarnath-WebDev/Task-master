@@ -10,7 +10,7 @@ A Modern Task Management Application
 ## ✨ Features
 
 <div align="center">
-  <img src="./src/Screenshot/screenshot.png" alt="Task Master Dashboard" width="800px" />
+  <img src="https://github.com/Amarnath-WebDev/Task-master/blob/main/src/Screenshot/Screenshot.png" alt="Task Master Dashboard" width="800px" />
 </div>
 
 ### 🎯 Core Features
@@ -150,10 +150,10 @@ Give a ⭐️ if this project helped you!
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/task-master](https://github.com/yourusername/task-master)
+Project Link: [https://github.com/yourusername/task-master](https://github.com/Amarnath-WebDev/Task-master)
 
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Amar
 </div>
