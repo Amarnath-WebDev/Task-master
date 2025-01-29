@@ -150,7 +150,7 @@ Give a ⭐️ if this project helped you!
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/task-master](https://github.com/Amarnath-WebDev/Task-master)
+Project Link: [https://github.com/Amarnath-WebDev/Task-master](https://github.com/Amarnath-WebDev/Task-master)
 
 ---
 
