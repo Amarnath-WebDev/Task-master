@@ -1,13 +1,13 @@
 ﻿# 🎯 Task Master
 
-A Modern Task Management Application
+A Modern Task Management 
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![MUI](https://img.shields.io/badge/MUI-v5-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## ✨ Features
+## ✨ Features Application [link](https://todotask-master.netlify.app/)
 
 <div align="center">
   <img src="https://github.com/Amarnath-WebDev/Task-master/blob/main/src/Screenshot/Screenshot.png" alt="Task Master Dashboard" width="800px" />
