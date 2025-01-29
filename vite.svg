@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-label="Task Master Logo">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="url(#gradient)" stroke="#94A3B8" stroke-width="3" />
+
+  <!-- Checkmark Icon -->
+  <path d="M70 100 L90 120 L130 80" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Decorative Outer Ring -->
+  <circle cx="100" cy="100" r="97" stroke="#E2E8F0" stroke-width="2" fill="none" />
+
+  <!-- Horizontal Decorative Lines -->
+  <line x1="40" y1="40" x2="160" y2="40" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" />
+  <line x1="40" y1="160" x2="160" y2="160" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Vertical Decorative Lines -->
+  <line x1="40" y1="40" x2="40" y2="160" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" />
+  <line x1="160" y1="40" x2="160" y2="160" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0.2" y1="0.2" x2="0.8" y2="0.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+</svg>

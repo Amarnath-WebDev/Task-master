@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #007AFF;
+  --color-primary-dark: #0A84FF;
+  --color-accent: #FF9500;
+  --color-accent-dark: #FF9F0A;
+  --color-background: #F2F2F7;
+  --color-surface: #FFFFFF;
+  --color-text-primary: #000000;
+  --color-text-secondary: #6B7280;
+  --color-border: #E5E7EB;
+  --color-success: #34C759;
+  --color-error: #FF3B30;
+  --color-warning: #FFCC00;
+}
+
+.dark {
+  --color-primary: #0A84FF;
+  --color-primary-dark: #007AFF;
+  --color-accent: #FF9F0A;
+  --color-accent-dark: #FF9500;
+  --color-background: #000000;
+  --color-surface: #1C1C1E;
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #8E8E93;
+  --color-border: #38383A;
+  --color-success: #30D158;
+  --color-error: #FF453A;
+  --color-warning: #FFD60A;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text-primary antialiased;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-4 py-2 rounded-lg font-medium transition-colors;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-dark;
+  }
+
+  .btn-secondary {
+    @apply bg-surface border border-border text-text-primary hover:bg-background;
+  }
+
+  .card {
+    @apply bg-surface rounded-lg border border-border p-4 shadow-sm;
+  }
+}
